@@ -1,0 +1,16 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.9 FATAL_ERROR)
+
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+PROJECT(geant4-template)
+
+add_subdirectory(example)
+
+
+
+
+
+
+
+
